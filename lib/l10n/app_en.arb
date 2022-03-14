@@ -1,0 +1,10 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "language": "language",
+    "theme": "theme",
+    "vietnamese": "Tiếng Việt",
+    "english": "English"
+}

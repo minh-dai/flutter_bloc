@@ -1,0 +1,10 @@
+{
+    "helloWorld": "Xin Chao!",
+    "@helloWorld": {
+      "description": "Lời chào của lập trình viên"
+    },
+    "language": "Ngôn ngữ",
+    "theme": "Chủ đề",
+    "english": "English",
+    "vietnamese": "Tiếng Việt"
+}
